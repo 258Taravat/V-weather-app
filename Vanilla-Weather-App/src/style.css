@@ -62,3 +62,18 @@ li::first-letter {
 .container-2 {
   display: inline-block;
 }
+.weather-temperature .active {
+  color: rgb(32, 33, 36);
+  cursor: default;
+  text-decoration: none;
+}
+.weather-temperature .passive {
+  cursor: default;
+  text-decoration: none;
+}
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
+.weather-temperature .passive:hover {
+  text-decoration: none;
+}
