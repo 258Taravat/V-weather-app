@@ -90,3 +90,18 @@ li::first-letter {
 .weather-temperature .passive:hover {
   text-decoration: none;
 }
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+.following-days {
+  font-size: 16px;
+  color: #202124;
+  opacity: 0.6;
+}
+.weather-forecast-temperatures {
+  font-size: 13px;
+}
+.weather-forecast-min {
+  opacity: 0.6;
+}
